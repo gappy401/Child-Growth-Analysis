@@ -1,9 +1,9 @@
 # GrowthIntelApp
 
-Paediatricians use growth charts to determine a child’s measurements (like weight, height, head circumference) relative to other children of the same age. CDC growth charts are used to calculate the percentile (z-score) for distinct measurements of a child below the age of 20. These observations are helpful in determining abnormalities, irregular growth patterns and possible warning signals to ensure optimal health of a child. The aim of this application is to simplify this diagnostic procedure by automating the process of z-score calculation and measurement comparison against growth charts. 
+Pediatricians use growth charts to determine a child’s measurements (like weight, height, and head circumference) relative to other children of the same age. CDC growth charts are used to calculate the percentile (z-score) for distinct measurements of a child below the age of 20. These observations are helpful in determining abnormalities, irregular growth patterns, and possible warning signals to ensure a child's optimal health. This application aims to simplify this diagnostic procedure by automating the z-score calculation and measurement comparison against growth charts. 
 <BR>
 <BR>
-The app calculates the z-score of a patient using a PL/SQL procedure, which makes use of the relevant growth charts stored in the database, and then generates a health report of the child patient with graphical measurement comparison & a list of abnormalities. As an additional feature, this app can also help the doctor keep track of vaccination course of their young patients.
+The app calculates the z-score of a patient using a PL/SQL procedure, which uses the relevant growth charts stored in the database. Then it generates a health report of the child patient with a graphical measurement comparison & a list of abnormalities. As an additional feature, this app can also help doctors keep track of the vaccination course of their young patients.
 <BR>
 
 The app starts with a Login/Sign Up window:
