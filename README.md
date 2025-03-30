@@ -12,6 +12,7 @@ The app starts with a Login/Sign Up window:
 <img src = "https://user-images.githubusercontent.com/34352365/153768584-b46cd502-12b9-4891-9d50-07e06fb10465.JPG" align="left" height="300" widht="300">
 <BR clear = "LEFT">
 
+
 After successful login the user can view the main app window which consists of two tabs:
 
 - Report 
