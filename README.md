@@ -21,6 +21,7 @@ After successful login the user can view the main app window which consists of t
 The **'Report'** tab prompts the user to enter a bunch of details about the patient.
 <img src="https://user-images.githubusercontent.com/34352365/153768864-3cc776be-4a15-46ad-9615-9d0a1af2b547.JPG" align="left" height="350" width="450">
 <BR clear = "LEFT">
+
 If the inputs are valid, the app generates a report showing a comparison of the growth metrics against the ideal standards using a histogram. The report also shows a list of abnnormalities (like "Short stature", "Overweight", "Underweight" etc) discovered on the basis of the provided inputs.
 <BR>
 <BR>
